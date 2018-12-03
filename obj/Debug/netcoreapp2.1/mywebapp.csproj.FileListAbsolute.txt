@@ -1,0 +1,14 @@
+C:\Users\Chad\Documents\dotNetCore\mywebapp\bin\Debug\netcoreapp2.1\mywebapp.deps.json
+C:\Users\Chad\Documents\dotNetCore\mywebapp\bin\Debug\netcoreapp2.1\mywebapp.runtimeconfig.json
+C:\Users\Chad\Documents\dotNetCore\mywebapp\bin\Debug\netcoreapp2.1\mywebapp.runtimeconfig.dev.json
+C:\Users\Chad\Documents\dotNetCore\mywebapp\bin\Debug\netcoreapp2.1\mywebapp.dll
+C:\Users\Chad\Documents\dotNetCore\mywebapp\bin\Debug\netcoreapp2.1\mywebapp.pdb
+C:\Users\Chad\Documents\dotNetCore\mywebapp\obj\Debug\netcoreapp2.1\mywebapp.csprojAssemblyReference.cache
+C:\Users\Chad\Documents\dotNetCore\mywebapp\obj\Debug\netcoreapp2.1\mywebapp.csproj.CoreCompileInputs.cache
+C:\Users\Chad\Documents\dotNetCore\mywebapp\obj\Debug\netcoreapp2.1\mywebapp.RazorAssemblyInfo.cache
+C:\Users\Chad\Documents\dotNetCore\mywebapp\obj\Debug\netcoreapp2.1\mywebapp.RazorAssemblyInfo.cs
+C:\Users\Chad\Documents\dotNetCore\mywebapp\obj\Debug\netcoreapp2.1\mywebapp.AssemblyInfoInputs.cache
+C:\Users\Chad\Documents\dotNetCore\mywebapp\obj\Debug\netcoreapp2.1\mywebapp.AssemblyInfo.cs
+C:\Users\Chad\Documents\dotNetCore\mywebapp\obj\Debug\netcoreapp2.1\mywebapp.RazorTargetAssemblyInfo.cache
+C:\Users\Chad\Documents\dotNetCore\mywebapp\obj\Debug\netcoreapp2.1\mywebapp.dll
+C:\Users\Chad\Documents\dotNetCore\mywebapp\obj\Debug\netcoreapp2.1\mywebapp.pdb
