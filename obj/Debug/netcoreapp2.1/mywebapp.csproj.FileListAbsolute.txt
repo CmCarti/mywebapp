@@ -12,3 +12,13 @@ C:\Users\Chad\Documents\dotNetCore\mywebapp\obj\Debug\netcoreapp2.1\mywebapp.Ass
 C:\Users\Chad\Documents\dotNetCore\mywebapp\obj\Debug\netcoreapp2.1\mywebapp.RazorTargetAssemblyInfo.cache
 C:\Users\Chad\Documents\dotNetCore\mywebapp\obj\Debug\netcoreapp2.1\mywebapp.dll
 C:\Users\Chad\Documents\dotNetCore\mywebapp\obj\Debug\netcoreapp2.1\mywebapp.pdb
+C:\Users\Chad\Documents\dotNetCore\mywebapp\bin\Debug\netcoreapp2.1\mywebapp.Views.dll
+C:\Users\Chad\Documents\dotNetCore\mywebapp\bin\Debug\netcoreapp2.1\mywebapp.Views.pdb
+C:\Users\Chad\Documents\dotNetCore\mywebapp\obj\Debug\netcoreapp2.1\mywebapp.TagHelpers.input.cache
+C:\Users\Chad\Documents\dotNetCore\mywebapp\obj\Debug\netcoreapp2.1\mywebapp.TagHelpers.output.cache
+C:\Users\Chad\Documents\dotNetCore\mywebapp\obj\Debug\netcoreapp2.1\mywebapp.RazorCoreGenerate.cache
+C:\Users\Chad\Documents\dotNetCore\mywebapp\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\Chad\Documents\dotNetCore\mywebapp\obj\Debug\netcoreapp2.1\mywebapp.RazorTargetAssemblyInfo.cs
+C:\Users\Chad\Documents\dotNetCore\mywebapp\obj\Debug\netcoreapp2.1\mywebapp.Views.pdb
+C:\Users\Chad\Documents\dotNetCore\mywebapp\obj\Debug\netcoreapp2.1\mywebapp.csproj.CopyComplete
+C:\Users\Chad\Documents\dotNetCore\mywebapp\obj\Debug\netcoreapp2.1\Razor\Pages\about.g.cshtml.cs
